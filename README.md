@@ -25,4 +25,4 @@
 ![HTML5](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettopasquale)](https://github.com/nettopasquale)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettopasquale&theme=dracula)](https://github.com/nettopasquale)
