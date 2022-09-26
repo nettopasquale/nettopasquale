@@ -23,3 +23,6 @@
 ![HTML5](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 ![HTML5](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettopasquale)](https://github.com/nettopasquale)
