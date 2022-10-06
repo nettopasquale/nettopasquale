@@ -14,7 +14,7 @@
 ![Node.js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Skills em andamento 🤔
+## Skills em andamento 👀👀👀
 
 ![HTML5](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
