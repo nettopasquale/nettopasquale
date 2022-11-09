@@ -58,4 +58,7 @@ programmatic thinking, hard skills such as HTML5, CSS3, Javascript, Typescript, 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
+## Estatísticas da minha página / My page statistics 📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettopasquale&theme=dracula)](https://github.com/nettopasquale)
+[![Pasquale's GitHub stats](https://github-readme-stats.vercel.app/api?username=nettopasquale&theme=dracula)](https://github.com/nettopasquale/github-readme-stats)
+
